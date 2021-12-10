@@ -12,3 +12,7 @@ body{
     font-family: "Trebuchet MS", sans-serif;
     background-color: #E2E2E2;
 }
+
+.pikto-no-events{
+    display : none;
+}
